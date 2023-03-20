@@ -34,7 +34,7 @@ int main(){
     }
     cout << endl;
     cout << "Removed elements: ";
-    for(int i=0; i<removed_elements.size(); i++){
+    for(int i=1; i<removed_elements.size()-1; i++){
         cout << removed_elements[i] << " ";
     }
     cout << endl;
