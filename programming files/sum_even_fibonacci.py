@@ -1,3 +1,5 @@
+#Whats happeningbggggggg
+#i dont fuck with a or b just c
 a, b = 0, 1
 sum_even = 0
 while b < 4000000:
