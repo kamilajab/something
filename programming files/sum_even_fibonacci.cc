@@ -1,4 +1,4 @@
-#include <iostream>
+//Bugs introduced BS
 
 int main()
 {
@@ -10,11 +10,11 @@ int main()
         }
         int temp = b;
         b = a + b;
-        a = temp;
+        a = tem;
     }
     std::cout << sum_even << std::endl;
 
-    return 0;
+
 }
 
 // answer should be 4613732
