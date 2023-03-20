@@ -1,3 +1,4 @@
+# this is molly's comment
 def remove_duplicates(arr):
     arr.sort()
     unique_arr = []
