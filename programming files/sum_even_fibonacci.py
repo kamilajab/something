@@ -8,6 +8,6 @@ while b < 4000000:
         sum_even += b
     a, b = a+b, b
 
-print(sum_even)
+print(sum_evn)
 
 # answer should be 4613732
